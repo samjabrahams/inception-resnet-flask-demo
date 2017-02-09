@@ -1,0 +1,5 @@
+__pycache__/
+inception_resnet_frozen.pb
+descriptions.txt
+images/
+serving/temp
