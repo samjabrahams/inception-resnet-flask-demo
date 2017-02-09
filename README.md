@@ -11,6 +11,17 @@ This demo is _not_ supposed to represent a production-ready server. It is not se
 * [Flask](http://flask.pocoo.org/)
 * [werkzeug](http://werkzeug.pocoo.org/)
 
+## Run it!
+
+1. Make sure you have the above dependencies installed (`pip install ...`)
+2. Clone the repo, move into the directory, and execute `run_server.sh`:
+
+```
+$ git clone https://github.com/samjabrahams/inception-resnet-flask-demo.git
+$ cd inception-resnet-flask-demo
+$ ./run_server.sh
+```
+
 ## About the files
 
 ### `run_server.sh`
